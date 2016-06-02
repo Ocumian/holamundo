@@ -16,7 +16,7 @@ namespace aplicacionasdfafsddfas
         {
             InitializeComponent();
 
-            MessageBox.Show("Hola mundo");
+            MessageBox.Show("Hola mundo asdf");
         }
     }
 }
