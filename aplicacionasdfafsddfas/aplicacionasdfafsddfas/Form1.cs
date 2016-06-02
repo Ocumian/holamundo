@@ -15,7 +15,7 @@ namespace aplicacionasdfafsddfas
         public Form1()
         {
             InitializeComponent();
-
+            
             MessageBox.Show("Hola universo");
         }
 
