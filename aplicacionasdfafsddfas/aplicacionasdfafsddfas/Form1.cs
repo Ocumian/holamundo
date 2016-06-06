@@ -16,7 +16,7 @@ namespace aplicacionasdfafsddfas
         {
             InitializeComponent();
 
-            MessageBox.Show("Hola Osorno");
+            MessageBox.Show("Hola mundo");
         }
 
         private void Form1_Load(object sender, EventArgs e)
